@@ -5,8 +5,8 @@ import nodes.Node;
 public class ListNode<K,V> extends Node<V> {
     
     private K key;
-    private ListNode<K,V> next;
     private ListNode<K,V> prev;
+    private ListNode<K,V> next;
     
     public ListNode(K key, V value) {
         this.key = key;

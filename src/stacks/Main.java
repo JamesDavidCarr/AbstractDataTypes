@@ -2,8 +2,6 @@ package stacks;
 
 public class Main {
 
-    
-
     public static void main(String[] args) {
         Stack<String> james = new Stack<String>();
         
