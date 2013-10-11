@@ -38,6 +38,6 @@ Thumbs.db
 
 # Eclipse Generated Files
 #########################
-.classpath
-.project
-.settings
+./.classpath
+./.project
+./.settings
